@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+.header {
+			background-image: url("logo.png");
+			background-color: cement;
+			float: none;
+			width: 95%;
+			color: blue;	
+			padding: 40px;
+			font-size: 200%;
+			font-family: "Times New Roman", Times, serif;
+			background-position: left;
+			background-repeat: no-repeat;
+			background-size: 15%;
+			}
+	.moveright {
+			float: right;
+			color: red;
+			word-spacing: 30px;
+			}
+	a {
+			text-decoration: none;
+			color: blue;
+ 			transition: 0.3s;
+			}
+	a:hover {
+			color: red;
+			}
